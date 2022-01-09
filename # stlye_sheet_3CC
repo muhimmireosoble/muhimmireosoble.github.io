@@ -1,0 +1,24 @@
+
+
+body {
+    background-color: white;
+  }
+  h1 {
+    color: white;
+  }
+  p {
+    color: white;
+  }
+  body {background-color:white;}
+  pre {font-family: 'Courier New', Courier,;}
+  h1 {
+      background-size: 0000px;
+      border: 5px solid purple;
+  }
+  h1 {caption-side: top;}
+  body {background-blend-mode: color ;}
+  h2 {border: 5px solid darkgoldenrod;}
+  p {color: gold;}
+  h3 {border: 5px solid yellowgreen;}
+  h3 {font-size: 30px;}
+  
